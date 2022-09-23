@@ -95,6 +95,12 @@ class RandomizeGUI():
         self.root.mainloop()
         
 
+"""
+Ideas:
+- Make Choices-List editable for User
+"""
+
+
 randomizeGUI = RandomizeGUI()
 randomizeGUI.start()
 
